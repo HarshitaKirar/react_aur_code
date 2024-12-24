@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  height: 1200px;
+  width: 1200px;
+}
+.button{
+  display: block;
+  background-color: grey;
+  margin-left:500px;
+  margin-bottom: 30px;
+
+}
